@@ -1,4 +1,4 @@
-
+## Pantry Site which can track items in inventory (React + FireBase)
 
 ![alt text](https://github.com/Hari3008/Pantry-Tracker/blob/main/Pantry.png?raw=true)
 
